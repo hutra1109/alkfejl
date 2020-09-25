@@ -1,0 +1,6 @@
+hu/alkfejl/dao/DBConfig.class
+hu/alkfejl/model/Orokbefogado.class
+hu/alkfejl/dao/OrokbefogadoDAO.class
+hu/alkfejl/model/Allat.class
+hu/alkfejl/model/Konyveles.class
+hu/alkfejl/dao/OrokbefogadoDAOImpl.class

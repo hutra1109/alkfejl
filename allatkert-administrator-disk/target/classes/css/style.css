@@ -1,0 +1,18 @@
+.button {
+    -fx-background-color: powderblue;
+    -fx-text-fill: #383640;
+    -fx-padding: 10 20 10 20;
+    -fx-font-weight: bold;
+    -fx-border-radius: 5px;
+}
+.button:hover {
+    -fx-background-color: #555555;
+    -fx-text-fill: #ffffff;
+}
+.my {
+    -fx-font-style: italic;
+    -fx-padding: 10 20 10 20;
+}
+.label {
+    -fx-text-fill: #000000;
+}
